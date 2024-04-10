@@ -50,6 +50,16 @@ img {
     border-radius: 5px;
 }
 
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 @media only screen and (max-width: 800px) {
     .menu {
         display: none;
